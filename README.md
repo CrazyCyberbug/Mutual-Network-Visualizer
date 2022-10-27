@@ -12,5 +12,7 @@
 
 ### TECHNOLOGIES USED:
 ++ SELENIUM (for automation of data scraping)
+
 ++ PyViz (for plotting the  network graph)
+
 ++ Python (Language used in this program)
